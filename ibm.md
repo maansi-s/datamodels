@@ -1,5 +1,1 @@
-IBM Information Management System
-Open-source 
-Hierarchical
-the hosting model (embedded, client/server, etc)
-An IMS Universal JDBC driver can be used to have access to the database from a Java or Python application. 
+IBM Information Management System is a hierarchical database that is open-source. (https://www.ibm.com/products/ims) It's hosting models are Client/Server, Cloud, Local, and Embedded. An IMS Universal JDBC driver can be used to have access to the database from a Java or Python application. 

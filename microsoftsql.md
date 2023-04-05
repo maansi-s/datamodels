@@ -1,5 +1,1 @@
-Microsoft SQL Server
-Commercial
-Relational
-the hosting model (embedded, client/server, etc)
-A Microsoft JDBC driver has to be downloaded and installed. 
+Microsoft SQL Server is a relational database that is for commercial use. (https://www.microsoft.com/en-us/sql-server) It's hosting models are Client/Server, Cloud, Local, and Embedded. A Microsoft JDBC driver has to be downloaded and installed. 

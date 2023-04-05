@@ -1,5 +1,1 @@
-Integrated Database Management System
-Commercial
-Network
-the hosting model (embedded, client/server, etc)
-Java and Python access the IDBMS database via a registered JDBC driver. 
+Integrated Database Management System is a network database that is for commercial use. (https://dbdb.io/db/idms) It's hosting models are Client/Server, Cloud, and Local. Java and Python access the IDBMS database via a registered JDBC driver. 

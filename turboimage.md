@@ -1,5 +1,1 @@
-TurboIMAGE
-Commercial
-Network
-the hosting model (embedded, client/server, etc)
-A Minisoft JDBC driver can be used to allow the programmer to connect to the Java or Python application. 
+TurboIMAGE is a network database that is for commercial use. (https://handwiki.org/wiki/Software:TurboIMAGE) It's hosting models are Client/Server and Local. A Minisoft JDBC driver can be used to allow the programmer to connect to the Java or Python application. 

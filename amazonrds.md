@@ -1,5 +1,1 @@
-Amazon RDS
-Commercial
-Relational
-the hosting model (embedded, client/server, etc)
-An Amazon RDS DB instance can be used to connect the database to the Java or Python applications. 
+Amazon RDS is a relational database that is for commercial use. (https://aws.amazon.com/free/database/?trk=83add82a-8e52-4837-bc73-c323da62d78c&sc_channel=ps&ef_id=Cj0KCQjwla-hBhD7ARIsAM9tQKvcDw1-iCNzmDeIKdlFImtH0D-fj_zaZOvDDqh6vgHI3tPYwRY5kysaArCMEALw_wcB:G:s&s_kwcid=AL!4422!3!610000101549!e!!g!!amazon%20relational%20database%20service!11086562318!108339552603). It's hosting models are Client/Server, Cloud, and Local. An Amazon RDS DB instance can be used to connect the database to the Java or Python applications. 

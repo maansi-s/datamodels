@@ -1,5 +1,2 @@
-GemStone
-Commercial
-Object-oriented 
-the hosting model (embedded, client/server, etc)
-GBJ (GemBuilder for Java) is used to provide an interface between the GemStone server and the Java clients. Python FFI is used for Python clients. 
+GemStone is an object-oriented database that is for commercial use. It's hosting models are Cloud and Local. (https://dbdb.io/db/gemstones) GBJ (GemBuilder for Java) is used to provide an interface between the GemStone server and the Java clients. Python FFI is used for Python clients. 
+This model is different than the models discussed in class because the information, or data, is stored in the form of objects and classes, rather than in the form of tables or graphs. Objects containing data are organized into classes that define the various properties or behaviors of the given objects. 

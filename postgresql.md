@@ -1,5 +1,1 @@
-PostgreSQL
-Open-source
-Relational
-the hosting model (embedded, client/server, etc)
-An IMS Universal JDBC driver can be used to have access to the database from a Java or Python application. 
+PostgreSQL is a relational database that is open-source. (https://www.postgresql.org/) It's hosting models are Client/Server, Cloud, Local, and Embedded. An IMS Universal JDBC driver can be used to have access to the database from a Java or Python application. 

@@ -1,5 +1,1 @@
-XML
-Open-source
-Hierarchical
-the hosting model (embedded, client/server, etc)
-Java can access XML via Simple API for XML (SAX) or Java Architecture for XML binding (Stax). Minidom can be used for Python/ 
+XML is a hierarchical database that is open-source. (https://www.xml.com/) It's hosting models are Client/Server, Cloud, Local, and Embedded. Java can access XML via Simple API for XML (SAX) or Java Architecture for XML binding (Stax). Minidom can be used for Python/ 

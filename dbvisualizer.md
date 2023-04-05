@@ -1,5 +1,1 @@
-DbVisualizer
-Commercial
-Relational
-the hosting model (embedded, client/server, etc)
-A JDBC driver  has to be created after downloading the DbVisualizer software. 
+DbVisualizer is a relational database that is for commercial use (https://www.dbvis.com/). It's hosting models are Client/Server, Cloud, Local, and Embedded. A JDBC driver has to be created after downloading the DbVisualizer software for Java or Python to access it. 
